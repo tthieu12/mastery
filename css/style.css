@@ -323,3 +323,6 @@ footer{
 .footer__copyright{
     padding-top: 32px;
 }
+.footer__copyright span{
+    color: #CCCCCC;
+}
